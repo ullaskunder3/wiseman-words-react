@@ -5,7 +5,7 @@ import './App.css';
 
 class App extends React.Component{
     state ={
-        advice: ''
+        wiseWords: ''
     };
     componentDidMount(){
         this.fetchAdvice();
@@ -13,15 +13,29 @@ class App extends React.Component{
     fetchAdvice = ()=> {
         axios.get('https://api.adviceslip.com/advice')
         .then((response)=>{
-            console.log(response);
+            const {advice} = response.data.slip;
+            this.setState({wiseWords: advice})
         })
         .catch((error)=>{
             console.log(error);
         });
     }
     render(){
+
+        // destructuring
+        const {wiseWords} = this.state;
+
         return (
-            <h1>Michio</h1>
+            // <h1>{wiseWords}</h1>
+            <div className="app">
+            <div className="bg"></div>
+                <div className="card">
+                    <div className="left__container">
+                    <h1 className="heading">{wiseWords}</h1>
+                    </div>
+                    <div className="right__container"></div>
+                </div>
+            </div>
         );
     }
 }
