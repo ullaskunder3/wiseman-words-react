@@ -22,7 +22,6 @@ class App extends React.Component{
     }
     render(){
 
-        // destructuring
         const {wiseWords} = this.state;
 
         return (
