@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ullaskunder3/wiseman-words-react/static/css/main.abb1f7e9.chunk.css",
-    "main.js": "/ullaskunder3/wiseman-words-react/static/js/main.560025b9.chunk.js",
-    "main.js.map": "/ullaskunder3/wiseman-words-react/static/js/main.560025b9.chunk.js.map",
-    "runtime-main.js": "/ullaskunder3/wiseman-words-react/static/js/runtime-main.43862167.js",
-    "runtime-main.js.map": "/ullaskunder3/wiseman-words-react/static/js/runtime-main.43862167.js.map",
-    "static/js/2.9adadfaa.chunk.js": "/ullaskunder3/wiseman-words-react/static/js/2.9adadfaa.chunk.js",
-    "static/js/2.9adadfaa.chunk.js.map": "/ullaskunder3/wiseman-words-react/static/js/2.9adadfaa.chunk.js.map",
-    "index.html": "/ullaskunder3/wiseman-words-react/index.html",
-    "static/css/main.abb1f7e9.chunk.css.map": "/ullaskunder3/wiseman-words-react/static/css/main.abb1f7e9.chunk.css.map",
-    "static/js/2.9adadfaa.chunk.js.LICENSE.txt": "/ullaskunder3/wiseman-words-react/static/js/2.9adadfaa.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ullaskunder3/wiseman-words-react/static/media/Wavey-Fingerprint.b3f83e47.svg"
+    "main.css": "/wiseman-words-react/static/css/main.753b7115.chunk.css",
+    "main.js": "/wiseman-words-react/static/js/main.560025b9.chunk.js",
+    "main.js.map": "/wiseman-words-react/static/js/main.560025b9.chunk.js.map",
+    "runtime-main.js": "/wiseman-words-react/static/js/runtime-main.6475e8d2.js",
+    "runtime-main.js.map": "/wiseman-words-react/static/js/runtime-main.6475e8d2.js.map",
+    "static/js/2.9adadfaa.chunk.js": "/wiseman-words-react/static/js/2.9adadfaa.chunk.js",
+    "static/js/2.9adadfaa.chunk.js.map": "/wiseman-words-react/static/js/2.9adadfaa.chunk.js.map",
+    "index.html": "/wiseman-words-react/index.html",
+    "static/css/main.753b7115.chunk.css.map": "/wiseman-words-react/static/css/main.753b7115.chunk.css.map",
+    "static/js/2.9adadfaa.chunk.js.LICENSE.txt": "/wiseman-words-react/static/js/2.9adadfaa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wiseman-words-react/static/media/Wavey-Fingerprint.b3f83e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43862167.js",
+    "static/js/runtime-main.6475e8d2.js",
     "static/js/2.9adadfaa.chunk.js",
-    "static/css/main.abb1f7e9.chunk.css",
+    "static/css/main.753b7115.chunk.css",
     "static/js/main.560025b9.chunk.js"
   ]
 }
